@@ -1,4 +1,11 @@
-# 🚀 DietPi Zero W Ultimate Hybrid
+# dietpi-zerow-ultimate-hybrid
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/dietpi-zerow-ultimate-hybrid)](https://github.com/Panda1847/dietpi-zerow-ultimate-hybrid/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/dietpi-zerow-ultimate-hybrid)](https://github.com/Panda1847/dietpi-zerow-ultimate-hybrid/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/dietpi-zerow-ultimate-hybrid)](https://github.com/Panda1847/dietpi-zerow-ultimate-hybrid/issues)
+[![Language](https://img.shields.io/badge/language-Shell-blue.svg)](https://github.com/Panda1847/dietpi-zerow-ultimate-hybrid)
+
 
 **A Custom Penetration Testing & Security Research Platform for Raspberry Pi Zero W**
 
